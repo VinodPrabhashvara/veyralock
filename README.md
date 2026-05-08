@@ -285,7 +285,7 @@ veyralock/
 
 ## Release
 
-Do not commit EXE files directly into the repository. Upload `dist\VeyraLock.exe` as a GitHub Release asset.
+[Download VeyraLock v1.0.0](https://github.com/VinodPrabhashvara/veyralock/releases/tag/v1.0.0)
 
 ---
 

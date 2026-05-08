@@ -285,7 +285,7 @@ veyralock/
 
 ## Release
 
-[Download VeyraLock v1.0.0](https://github.com/VinodPrabhashvara/veyralock/releases/tag/v1.0.0)
+Download [Download VeyraLock v1.0.0](https://github.com/VinodPrabhashvara/veyralock/releases/tag/v1.0.0)
 
 ---
 
